@@ -1,7 +1,7 @@
 # instagram
 <br>
 
-next.js 를 이용한 인스타그램 클론코딩입니다.
+React를 이용한 card 입니다.
 
 ---
 
